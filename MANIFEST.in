@@ -1,0 +1,6 @@
+include pydemo/__init__.py
+include pydemo/PYDEMO*
+include pydemo/*.h
+
+exclude pydemo/.*
+exclude *.sh
